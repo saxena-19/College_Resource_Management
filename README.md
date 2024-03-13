@@ -5,7 +5,9 @@ Hardware Used-Intel Core i3 Processor or equivalent,4 GB RAM,802.11ac 2.4/5,GHz 
 Software Used	Languages Used- Github,Visual Studio Code,Ms Excel		
 Languages Used-C++
 
+#Design Digram
 
 
+![Screenshot 2024-03-13 134214](https://github.com/saxena-19/College_Resource_Management/assets/157278750/3f670c28-3b05-412d-91d7-79812b20dde1)
 
 
